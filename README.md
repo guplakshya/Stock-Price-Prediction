@@ -36,7 +36,7 @@ This project uses following libraries
 3. [Matplotlib](https://matplotlib.org/)
 4. [Keras](https://keras.io/)
 5. [sklearn](https://scikit-learn.org/)
-6. [Tenserflow](https://www.tensorflow.org/)
+6. [Tensorflow](https://www.tensorflow.org/)
 
 
 
