@@ -31,12 +31,12 @@ An LSTM has a similar control flow as a recurrent neural network. It processes d
 
 This project uses following libraries
 
-..* NumPy (https://numpy.org/)
-..* Pandas (https://pandas.pydata.org/)
-..* Matplotlib (https://matplotlib.org/)
-..* Keras (https://keras.io/)
-..* sklearn (https://scikit-learn.org/)
-..* Tenserflow (https://www.tensorflow.org/)
+1. NumPy (https://numpy.org/)
+2. Pandas (https://pandas.pydata.org/)
+3. Matplotlib (https://matplotlib.org/)
+4. Keras (https://keras.io/)
+5. sklearn (https://scikit-learn.org/)
+6. Tenserflow (https://www.tensorflow.org/)
 
 
 
